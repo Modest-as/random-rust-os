@@ -1,5 +1,7 @@
 # Margo OS
 
+* Get xbuild: `cargo install cargo-xbuild`
+
 * Build: `cargo xbuild --target x86_64-margo_os.json`
 
 * We need a nightly build: `rustup override add nightly`
