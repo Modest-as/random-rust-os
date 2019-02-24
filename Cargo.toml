@@ -1,0 +1,10 @@
+[package]
+name = "margo_os"
+version = "0.1.0"
+authors = ["modest-as <modestas.petravicius@gmail.com>"]
+
+[dependencies]
+bootloader = "0.3.12"
+
+[package.metadata.bootimage]
+default-target = "x86_64-margo_os.json"
