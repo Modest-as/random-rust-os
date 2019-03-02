@@ -3,6 +3,9 @@ name = "margo_os"
 version = "0.1.0"
 authors = ["modest-as <modestas.petravicius@gmail.com>"]
 
+[dev-dependencies]
+array-init = "0.0.3"
+
 [dependencies]
 volatile = "0.2.3"
 bootloader = "0.3.12"
