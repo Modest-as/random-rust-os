@@ -1,4 +1,4 @@
-# Margo OS
+# Random Rust OS
 
 * Get xbuild: `cargo install cargo-xbuild`
 
